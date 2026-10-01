@@ -9,7 +9,7 @@ Student at Universidad del Norte in Barranquilla, Colombia. I like problems wher
 
 ## Open source
 
-- **[vacanza/holidays#3845](https://github.com/vacanza/holidays/pull/3845)**: adds the trading calendar of the Bolsa de Valores de Colombia (BVC) to python-holidays, checked day by day against BVC's own data since 2008. In review.
+- **[vacanza/holidays#3845](https://github.com/vacanza/holidays/pull/3845)**: adds the trading calendar of the Bolsa de Valores de Colombia (BVC) to python-holidays, checked day by day against BVC's own data since 2008. Merged; ships in holidays 0.106.
 
 ## Experience
 
