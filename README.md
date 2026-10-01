@@ -1,6 +1,6 @@
 # Juan Sebastián Ruiz Akle
 
-Student at Universidad del Norte in Barranquilla, Colombia. I like problems where small details decide whether a result is right (legal documents, money formats, holiday calendars, datasets), and I try to prove it with tests.
+Software engineer in Barranquilla, Colombia. I studied Systems and Computer Engineering at Universidad del Norte. I like problems where small details decide whether a result is right (legal documents, money formats, holiday calendars, datasets), and I try to prove it with tests.
 
 ## Projects
 
